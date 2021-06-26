@@ -1,5 +1,6 @@
 body {
     box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
     margin: 0;
     padding: 0;
 }
@@ -13,7 +14,7 @@ header {
     z-index: 1;
 }
 
-header p {
+.announcement-discount {
     background-color: rgb(28, 209, 176);
     margin: 0;
     padding: 10px;
