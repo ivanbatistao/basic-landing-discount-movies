@@ -105,13 +105,12 @@ footer p {
         display: inline-block;
         position: fixed;
         right: 15px;
-        text-align: center;
     }
 
     .plus-symbol{
         margin: 20px;
+        padding-top: 3px;
         width: 15px;
     }
-
 
 }
